@@ -1,0 +1,329 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+.box h1 {
+    padding: 1%;
+    position: absolute;
+    margin-top: 20px;
+    margin-left: 15px;
+}
+
+.box h1 b {
+    color: blue;
+    margin-left: 10px;
+    position: absolute;
+    margin-top: -5px;
+}
+
+.box button {
+    margin-left: 520px;
+    margin-top: 40px;
+    width: 140px;
+    color: darkblue;
+    background-color: white;
+    border-color: white;
+    height: 40px;
+    font-size: medium;
+    border: 0px;
+}
+
+.box .btnMarkallasread-popup:hover {
+    color: powderblue;
+    background: white;
+}
+
+.box {
+    width: 700px;
+    height: 1000px;
+    border: o.5px solid black;
+    border-radius: 5px;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: white;
+}
+
+
+body {
+    background-color: whitesmoke;
+}
+
+.box-a {
+    width: 600px;
+    height: 50px;
+    border: 0.1px solid whitesmoke;
+    border-radius: 5px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 70px;
+    color: powderblue;
+    background-color: whitesmoke;
+}
+
+.box-a img {
+    width: 30px;
+    padding: 1%;
+}
+
+.box-a b {
+    position: absolute;
+    color: black;
+}
+
+.box-a p {
+    margin-left: 165px;
+    margin-top: -45px;
+    color: black;
+}
+
+.box-a h5 {
+    margin-left: 42px;
+    margin-top: 2px;
+    color: grey;
+}
+
+.box-a :hover {
+    background: gray;
+    color: whitesmoke;
+}
+
+
+.box-b {
+    width: 600px;
+    height: 50px;
+    border: 0.1px solid whitesmoke;
+    border-radius: 5px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 60px;
+    background-color: whitesmoke;
+}
+
+.box-b img {
+    width: 30px;
+    padding: 1%;
+}
+
+.box-b b {
+    position: absolute;
+}
+
+.box-b p {
+    margin-left: 155px;
+    margin-top: -45px;
+}
+
+.box-b h5 {
+    margin-left: 42px;
+    margin-top: 2px;
+    color: grey;
+}
+
+.box-b :hover {
+    background: gray;
+    color: whitesmoke;
+}
+
+.box-c {
+    width: 600px;
+    height: 50px;
+    border: 0.1px solid whitesmoke;
+    border-radius: 5px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 70px;
+    background-color: whitesmoke;
+}
+
+.box-c img {
+    width: 30px;
+    padding: 1%;
+}
+
+.box-c b {
+    position: absolute;
+}
+
+.box-c p {
+    margin-left: 180px;
+    margin-top: -45px;
+}
+
+.box-c h5 {
+    margin-left: 42px;
+    margin-top: 2px;
+    color: grey;
+}
+
+.box-c :hover {
+    background: gray;
+    color: whitesmoke;
+}
+
+.box-d {
+    width: 600px;
+    height: 50px;
+    border: 0.1px solid white;
+    border-radius: 5px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 60px;
+}
+
+.box-d img {
+    width: 30px;
+    padding: 1%;
+}
+
+.box-d b {
+    position: absolute;
+}
+
+.box-d p {
+    margin-left: 200px;
+    margin-top: -45px;
+}
+
+.box-d h5 {
+    margin-left: 42px;
+    margin-top: 2px;
+    color: grey;
+}
+
+.box-d :hover {
+    background: gray;
+    color: whitesmoke;
+}
+
+
+.message h5 {
+    width: 500px;
+    height: 50px;
+    margin-right: 20px;
+    padding: 10px;
+    border: 0.5px solid white;
+    margin-top: 60px;
+    color: grey;
+    background-color: whitesmoke;
+    border-radius: 5px;
+}
+
+.box-e {
+    width: 600px;
+    height: 50px;
+    border: 1px solid white;
+    border-radius: 5px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 90px;
+}
+
+.box-e img {
+    width: 30px;
+    padding: 1%;
+}
+
+.box-e b {
+    position: absolute;
+}
+
+.box-e p {
+    margin-left: 180px;
+    margin-top: -45px;  
+}
+
+.box-e h2 img {
+    width: 35px;
+    margin-left: 550px;
+    margin-top: 10px;
+}
+
+.box-e h5 {
+    margin-left: 42px;
+    margin-top: 2px;
+    color: grey;
+}
+
+.box-e :hover {
+    background: gray;
+    color: whitesmoke;
+}
+
+.box-f {
+    width: 600px;
+    height: 50px;
+    border: 1px solid white;
+    border-radius: 5px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 60px;
+}
+
+.box-f img {
+    width: 30px;
+    padding: 1%;
+}
+
+.box-f b {
+    position: absolute;
+    margin-right: 20px;
+}
+
+.box-f p {
+    margin-left: 190px;
+    margin-top: -45px;
+}
+
+.box-f h5 {
+    margin-left: 42px;
+    margin-top: -14px;
+    color: grey;
+}
+
+.box-f h4 {
+    margin-left: 42px;
+}
+
+.box-f :hover {
+    background: gray;
+    color: whitesmoke;
+}
+
+.box-g {
+    width: 600px;
+    height: 50px;
+    border: 1px solid white;
+    border-radius: 5px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 70px;
+}
+
+.box-g img {
+    width: 30px;
+    padding: 1%;
+}
+
+.box-g b {
+    position: absolute;
+}
+
+.box-g p {
+    margin-left: 130px;
+    margin-top: -45px;
+}
+
+.box-g h5 {
+    margin-left: 42px;
+    margin-top: 2px;
+    color: grey;
+}
+
+.box-g :hover {
+    background: gray;
+    color: whitesmoke;
+}
+
